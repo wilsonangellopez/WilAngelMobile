@@ -1,0 +1,9 @@
+{
+	"deviceName": "emulator-5554",
+	"platformName": "Android",
+	"platformVersion": "9.0",
+	"appPackage": "com.disney.wdpro.dlr",
+	"appActivity": "com.disney.wdpro.park.activities.LoaderActivity",
+	"app": "C:/Users/wilson.angel/Downloads/Disneyland.apk",
+	"automationName": "UiAutomator2"
+}

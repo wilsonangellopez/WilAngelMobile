@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/wilson.angel/Documents/Globant/Carrera TAE/Curso Tae Peru/Mobile/AutomationMobile"><classes><class name="tests.LoginAppTest"><methods><include name="failedLoginTest"/></methods></class></classes></test></suite>
